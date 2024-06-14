@@ -2,7 +2,7 @@
   "name": "incident-management",
   "version": "1.0.0",
   "description": "A simple CAP project.",
-  "repository": "<Add your repository here>",
+  "repository": "https://github.com/pero-de/tutorial-incident-management.git",
   "license": "UNLICENSED",
   "private": true,
   "dependencies": {
